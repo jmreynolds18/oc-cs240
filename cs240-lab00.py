@@ -6,7 +6,7 @@
 # program.
 
 # Added September 24, 2012 : Added bird image to move across the map
-# and spin at the same time.
+# and spin at the same time..
 
 width, height = 640, 480 
 horizontal = 2
