@@ -7,6 +7,7 @@
 # to find the length of a given path and should be able
 # to calculate the distance.
 
+# need random.random()
 
 import random
 
@@ -38,6 +39,8 @@ w1.latitude = 40
 print w1.latitude    #display 40
 
 w2 = Waypoint(39.83333, -98.5833,'Middle of USA')
+print w2.latitude, w2.longitude, w2.name
+
 
 w3 = Waypoint(40.0755, -76.3299,'Olivet, MI')
 w4 = Waypoint(3,5)
